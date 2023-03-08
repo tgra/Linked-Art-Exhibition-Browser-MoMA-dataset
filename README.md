@@ -13,7 +13,6 @@ All files are available to download at https://github.com/tgra/Linked-Art-Exhibi
 
 ## Directory structure 
 
-
 - activity - Linked Art JSON-LD files describing exhibitions
 - person - Linked Art JSON-LD files describing people associated with exhibitions
 - group - Linked ArtJSON-LD files describing groups associated with exhibitions
@@ -21,5 +20,6 @@ All files are available to download at https://github.com/tgra/Linked-Art-Exhibi
 - wikidata - JSON files containing Wikidata image URLs for people included in the MoMA dataset
 
 
-
+### Summary files
+Files in the summary directory were created with Jupyter notebooks that art part of the Linked Art Data Analysis app at https://github.com/tgra/Linked-Art-Exhibition-Browser-Data-Analysis
 
